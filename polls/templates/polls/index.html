@@ -1,6 +1,32 @@
+<html>
+<head>
+<title>Page Title</title>
+<style>
+    h1 {
+      color: blue;
+      font-family: verdana;
+      font-size: 300%;
+    
+    }
+    p  {
+      color: blue;
+      font-family: verdana;
+      font-size: 200%;
+    }
+</style>
+</head>
+<body style="background-color:powderblue;">
+
+<h1 style="text-align:center;">Ozaria</h1>
+<p style="text-align:center;">Servers:</p>
+
+</body>
+</html>
+
 {% load static %}
 
 <link rel="stylesheet" href="{% static 'polls/style.css' %}">
+
 
 {% if latest_question_list %}
     <ul>
