@@ -1,6 +1,23 @@
 li a {
     color: blue;
+    font-family: verdana;
+    font-size: 200%;
 }
 body {
     background-image: url("images/background.png");
-  }
+}
+ul {
+    color: blue;
+    font-family: verdana;
+    font-size: 200%;
+}
+input {
+    color: blue;
+    font-family: verdana;
+    font-size: 200%;
+}
+label {
+    color: blue;
+    font-family: verdana;
+    font-size: 200%;
+}
