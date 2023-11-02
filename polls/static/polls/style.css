@@ -7,12 +7,12 @@ body {
     background-image: url("images/background.png");
 }
 ul {
-    color: blue;
+    color: green;
     font-family: verdana;
     font-size: 200%;
 }
 input {
-    color: blue;
+    color: green;
     font-family: verdana;
     font-size: 200%;
 }
